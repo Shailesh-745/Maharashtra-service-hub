@@ -3,9 +3,13 @@ Maharashtra Service Hub is a centralized web platform that provides easy access 
 The platform includes features like:
 
 🔍 Smart Search for quick service access
+
 ⭐ Most Used & Recently Accessed Services
+
 ❤️ Favorites for personalized usage
+
 📂 Categorized Government Services
+
 🌐 Clean and responsive UI for better accessibility
 
 This project is designed to reduce the hassle of navigating multiple government websites and provide citizens with a seamless digital experience.
