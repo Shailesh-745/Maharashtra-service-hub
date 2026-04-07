@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shailesh-745.github.io/Maharashtra-service-hub/sitemap.xml
